@@ -3,3 +3,4 @@ function display() {
         document.getElementById("updateTime").innerHTML = new Date()
     }, 1);
 }
+//In branch 2
